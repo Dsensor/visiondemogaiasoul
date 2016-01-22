@@ -1,0 +1,30 @@
+CACHE MANIFEST
+# v0.1.485 2014-08-18
+# This is another comment
+index.html
+css/selfstyle.css
+css/ui-lightness/jquery-ui-1.10.3.custom.css
+images/
+start.js
+selflogic.js
+livedata.js
+datamodel.js
+pouchdbutility.js
+prediction.js
+js/jquery-2.0.3.min.js
+js/jquery-ui-1.10.3.custom.min.js
+js/pouchdb-25-08-2013.min.js
+js/punch.js
+js/IndexedDBShim.min.js
+js/flotr2.min.js
+js/jquery-BBQ-1.2.1.js
+images/osp_logo64.png
+socket.io.js
+viewtemplates.js
+
+# Use from network if available
+NETWORK:
+*
+
+# Fallback content
+FALLBACK:

@@ -1,0 +1,6 @@
+# ignore files
+build/*
+cache/*
+server/settings.js
+server/node_module
+

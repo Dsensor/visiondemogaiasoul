@@ -1,0 +1,23 @@
+{
+  "name": "gaiasoul-demo",
+  "version": "0.0.1",
+  "single-instance": true,
+   "main" : "index.html", 
+   "node-main": "server/index.js",
+  "node-local": "http://localhost:8822", 
+   "window": {
+    "frame": true,
+    "width": 1200,
+    "height": 1000,
+    "toolbar": true,
+    "position": "center",
+    "resizable": true,
+    "show": true
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "nw-builder": "^2.2.0",
+     "socket.io" : "~0.9.16"   
+  }
+}
